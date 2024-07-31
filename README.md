@@ -1,8 +1,9 @@
 👋 Hi there! I'm Carlos (@Carvas91).
-🎓 I'm currently studying Business Analytics.
-🐍 I have a passion for Python, especially when it comes to data analysis and visualization. Libraries like Pandas, Matplotlib, and Seaborn are some of my favorites.
-🔍 I'm also proficient with SQL and have experience with Power BI.
-🚀 Exciting news! I'm starting an online Master's program in Artificial Intelligence in October 2023.
+
+🎓 I'm currently working on my Master's thesis in Artificial Intelligence, focusing on comparing machine learning techniques for predicting BMI categories in the Ecuadorian population using sociodemographic variables.
+
+🐍 I have a passion for Python, especially for data analysis and visualization using libraries like Pandas, Matplotlib, and Seaborn. I'm also proficient with SQL and have experience with Power BI. Additionally, I work with machine learning and deep learning, using libraries such as TensorFlow, Keras, and scikit-learn to build and refine models.
+
 📫 How to reach me: carvas91@hotmail.com
 
 
