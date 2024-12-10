@@ -2,7 +2,7 @@
 
 I’m passionate about solving real-world problems through AI and data science. I love working with Python libraries like Pandas, Matplotlib, and scikit-learn, building machine learning models, and diving into SQL and Power BI to uncover insights.
 
-In my free time, I enjoy working out, playing guitar, and expanding my skills through Udemy courses on emerging technologies. If you’re into AI, data science, or cool tech projects, let’s connect [LinkedIn](https://www.linkedin.com/in/vasconezswett/)
+In my free time, I enjoy working out, playing guitar, and expanding my skills through Udemy courses on emerging technologies. If you’re into AI, data science, or cool tech projects, let’s connect through [LinkedIn](https://www.linkedin.com/in/vasconezswett/)
 ! 😊
 
 🌐 my website: [carvas91.github.io](https://carvas91.github.io)  
