@@ -4,5 +4,5 @@ I’m passionate about solving real-world problems through AI and data science. 
 
 In my free time, I enjoy working out, playing guitar, and expanding my skills through Udemy courses on emerging technologies. If you’re into AI, data science, or cool tech projects, let’s connect! 😊
 
-🌐 my website: carvas91.github.io
+🌐 my website: carvas91.github.io  
 📫 reach me: carvas91@hotmail.com
